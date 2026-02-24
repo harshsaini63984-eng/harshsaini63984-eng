@@ -1,5 +1,9 @@
+![logo](https://github.com/harshsaini63984-eng/harshsaini63984-eng/blob/main/header_gif.gif)
+
 <h1 align="center">Hi 👋, I'm Harsh Saini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+<img align="right" alt="Kryptora" width="400" src="https://github.com/harshsaini63984-eng/harshsaini63984-eng/blob/main/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshsaini63984-eng&label=Profile%20views&color=0e75b6&style=flat" alt="harshsaini63984-eng" /> </p>
 
